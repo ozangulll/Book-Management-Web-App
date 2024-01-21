@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Book_Store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Book_Store.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\26cd4846-0545-4556-8bef-dc84179935df_Drive-book.png",
+      "PackagePath": "staticwebassets\\images\\26cd4846-0545-4556-8bef-dc84179935df_Drive-book.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\2d5d798f-656e-4ed8-8ce9-893c85cb363f_The_Great_Gatsby_Cover_1925_Retouched.jpg",
+      "PackagePath": "staticwebassets\\images\\2d5d798f-656e-4ed8-8ce9-893c85cb363f_The_Great_Gatsby_Cover_1925_Retouched.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\3516ce58-3c41-452f-9e24-7fa82dd7d8df_51XHq6SeVlL._SY445_SX342_.jpg",
+      "PackagePath": "staticwebassets\\images\\3516ce58-3c41-452f-9e24-7fa82dd7d8df_51XHq6SeVlL._SY445_SX342_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\582bed70-1ab1-4a6c-8667-e3bb0eb733a0_Dune-Frank_Herbert_(1965)_First_edition.jpg",
+      "PackagePath": "staticwebassets\\images\\582bed70-1ab1-4a6c-8667-e3bb0eb733a0_Dune-Frank_Herbert_(1965)_First_edition.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\5c116e90-5adb-45d7-97c5-fc870303c114_Leviathan_by_Thomas_Hobbes.jpg",
+      "PackagePath": "staticwebassets\\images\\5c116e90-5adb-45d7-97c5-fc870303c114_Leviathan_by_Thomas_Hobbes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\68dba740-f5b9-4ea0-9c28-6db2ab08bfbe_Drive-book.png",
+      "PackagePath": "staticwebassets\\images\\68dba740-f5b9-4ea0-9c28-6db2ab08bfbe_Drive-book.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\6a24d1e5-6e4c-461c-974c-28fbd1cd36f9_TheHeroWithAThousandFaces.jpg",
+      "PackagePath": "staticwebassets\\images\\6a24d1e5-6e4c-461c-974c-28fbd1cd36f9_TheHeroWithAThousandFaces.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\6c9bf4c9-99d5-4499-b02d-1ad5e8ec0901_Predictably_Irrational_Book_Cover.jpg",
+      "PackagePath": "staticwebassets\\images\\6c9bf4c9-99d5-4499-b02d-1ad5e8ec0901_Predictably_Irrational_Book_Cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\7f0a02c3-f5e3-4aaf-9625-84e78179060c_Dracula_1st_ed_cover_reproduction.jpg",
+      "PackagePath": "staticwebassets\\images\\7f0a02c3-f5e3-4aaf-9625-84e78179060c_Dracula_1st_ed_cover_reproduction.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\antique-books-on-shelves.jpg",
+      "PackagePath": "staticwebassets\\images\\antique-books-on-shelves.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\b551bc57-dff7-49c5-b0c9-495cba90c7dd_419-8cqhaWL._SY445_SX342_.jpg",
+      "PackagePath": "staticwebassets\\images\\b551bc57-dff7-49c5-b0c9-495cba90c7dd_419-8cqhaWL._SY445_SX342_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\c2b9bc96-ef1e-4fbb-a2ab-b477e056e118_0001850331001-1.jpg",
+      "PackagePath": "staticwebassets\\images\\c2b9bc96-ef1e-4fbb-a2ab-b477e056e118_0001850331001-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\depositphotos_80728912-stock-photo-a-pile-of-books-on.jpg",
+      "PackagePath": "staticwebassets\\images\\depositphotos_80728912-stock-photo-a-pile-of-books-on.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\im1.jpg",
+      "PackagePath": "staticwebassets\\images\\im1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\im2.jpg",
+      "PackagePath": "staticwebassets\\images\\im2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\im3.jpg",
+      "PackagePath": "staticwebassets\\images\\im3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\im4.avif",
+      "PackagePath": "staticwebassets\\images\\im4.avif"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\im5.jpeg",
+      "PackagePath": "staticwebassets\\images\\im5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\im6.jpg",
+      "PackagePath": "staticwebassets\\images\\im6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\images\\making-a-photo-book-digital-photography-school-adam-welch-1-5.webp",
+      "PackagePath": "staticwebassets\\images\\making-a-photo-book-digital-photography-school-adam-welch-1-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Book_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Book_Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Book_Store.props",
+      "PackagePath": "build\\Book_Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Book_Store.props",
+      "PackagePath": "buildMultiTargeting\\Book_Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Book_Store.props",
+      "PackagePath": "buildTransitive\\Book_Store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

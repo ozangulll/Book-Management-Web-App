@@ -1,0 +1,62 @@
+@model Book_Store.Data.Book
+
+<div class="card " style="width: 20rem" >
+   <img src="~/images/@Model.Image" class="card-img-top " style="max-height: 180px;">
+
+    <div class="card-body">
+        <h4 class="card-title ">@Model.BookName </h4>
+    <div class="accordion accordion-flush" id="accordionFlushExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="flush-headingDescription">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#flush-collapseDescription" aria-expanded="false" aria-controls="flush-collapseDescription">
+                    <small class="fw-bold">Short Description</small>
+            </button>
+        </h2>
+        <div id="flush-collapseDescription" class="accordion-collapse collapse" aria-labelledby="flush-headingDescription"
+             data-bs-parent="#accordionFlushExample">
+            <div class="accordion-body">
+                <p class="card-text"><small>@Model.Description</small></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">
+            <small class="text-body-secondary card-text">
+                <small class="fw-bold">Author: </small>@Model.Author
+            </small>
+        </li>
+        <li class="list-group-item">
+            <small class="text-body-secondary card-text">
+                <small class="fw-bold">Publisher: </small>@Model.Publisher
+            </small>
+        </li>
+        <li class="list-group-item">
+            <small class="text-body-secondary card-text">
+                <small class="fw-bold">Length of Page: </small>@Model.Length
+            </small><small> pages</small>
+        </li>
+        <li class="list-group-item">
+            <small class="text-body-secondary card-text">
+                <small class="fw-bold">Language: </small>@Model.Language
+            </small>
+        </li>
+        <li class="list-group-item">
+            <small class="text-body-secondary card-text">
+                <small class="fw-bold">Price: </small>@Model.Price
+                </small><small> $</small>
+        </li>
+    </ul>
+    <div class="card-body">
+    <button type="button" class="btn btn-sm" style="background-color:#346598">
+        <a class="text-white card-link" asp-controller="BookManagement" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+    </button>
+
+    <button type="button" class="btn btn-sm" style="background-color:#8C4A3B">
+        <a class="text-white card-link" asp-controller="BookManagement"  asp-action="Delete" asp-route-id="@Model.Id">Delete</a>
+    </button>
+</div>
+</div>

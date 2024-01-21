@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]  Book Store</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Book_Store.styles.css" asp-append-version="true" />
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light box-shadow mb-3 py-3 container-fluid" style="background-color:#304753"> 
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"> <span class="fs-4" style="color:#DA727E" >Book Store</span> </span></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1 nav justify-content-end ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link active" style="color:#DA727E" aria-current="page" asp-area="" asp-controller="Home" asp-action="Index"><small>Home</small></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link"  style="color:#DA727E" asp-area="" asp-controller="Category" asp-action="Index"><small>Categories</small></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " style="color:#DA727E" asp-area="" asp-controller="BookManagement" asp-action="Index"> <small>Book List</small></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container flex-grow-1" >
+        <main role="main" class="pb-5">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="container-fluid text-center py-4 lead text-light" style="background-color:#304753">
+        <div class="container" style="color:#DA727E">
+            &copy; 2023 - Book Store -  <a style="color:#DA727E" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

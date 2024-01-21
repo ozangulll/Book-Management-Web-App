@@ -1,0 +1,13 @@
+@model Book_Store.Data.Book
+
+<h2>Delete Book</h2>
+
+<p>
+    Do you want to delete <b>@Model.Id</b>?
+</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn" style="background-color:#346598">Yes</button>
+    <a asp-action="Index" class="btn" style="background-color:#8C4A3B">No</a>
+</form>

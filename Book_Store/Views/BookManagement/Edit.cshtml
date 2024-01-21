@@ -1,0 +1,53 @@
+@model Book_Store.Data.Book
+
+
+
+<form asp-controller="BookManagement" asp-action="Edit" method="post" enctype="multipart/form-data">
+    
+    <div class="mb-3">
+        <label asp-for="BookName" class="form-label"  >Book Name</label>
+        <input asp-for="BookName" class="form-control"  placeholder="@ViewBag.Name">
+
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label">Description</label>
+        <input asp-for="Description" class="form-control" placeholder="@ViewBag.Description">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Author" class="form-label">Author</label>
+        <input asp-for="Author" class="form-control" placeholder="@ViewBag.Author">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Length" class="form-label">Length of Page</label>
+        <input asp-for="Length" class="form-control" placeholder="@ViewData["Length"]">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Publisher" class="form-label">Publisher</label>
+        <input asp-for="Publisher" class="form-control" placeholder="@ViewData["Publisher"]">
+    </div>
+<div class="mb-3">
+        <label asp-for="Price" class="form-label">Price</label>
+        <input asp-for="Price" class="form-control" placeholder="@ViewData["Price"]">
+    </div>
+<div class="mb-3">
+    <label asp-for="Language" class="form-label">Language</label>
+    <select asp-for="Language" class="form-control">
+        <option value="TR">Türkçe</option>
+        <option value="EN">English</option>
+        <option value="ES">Español</option>
+        <option value="FR">Français</option>
+        <option value="DE">Deutsch</option>
+        <option value="IT">Italiano</option>
+    </select>
+</div>
+<div class="mb-3">
+    <label asp-for="File" class="form-label">Upload Image</label>
+    <input type="file" id="File" name="File" class="form-control" asp-for="File">
+</div>
+
+
+    <button type="submit" class="btn text-light" style="background-color:#834644" >Save</button>
+</form>

@@ -1,0 +1,27 @@
+
+@model List<BookCategory>
+<style>
+    body {
+        background: url("/images/im6.jpg") center center fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-color: rgba(255, 255, 255, 0.5); 
+    }
+</style> 
+<body>
+<div class="container d-flex flex-column align-items-center justify-content-center ">
+    <h2 class="fw-bold" style="color: #F2C14E">Book Categories</h2>
+
+
+        @foreach (var category in Model)
+        {
+            <div class="col-12 col-md-6 col-lg-4 mb-3 mt-3">
+                <a asp-controller="Category" asp-action="ShowBooks" asp-route-categoryId="@category.CategoryID"
+                   class="btn text-dark w-100" style="background-color:#DA727E; font-size:20px; padding:15px 20px;">
+                   @category.CategoryName
+                </a>
+            </div>
+        }
+    </div>
+</body>

@@ -1,0 +1,510 @@
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\appsettings.json
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Book_Store.staticwebassets.runtime.json
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Book_Store.exe
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Book_Store.deps.json
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Book_Store.runtimeconfig.json
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Book_Store.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Book_Store.pdb
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.Book_Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book_Store.props
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store.props
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book_Store.props
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\scopedcss\bundle\Book_Store.styles.css
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\scopedcss\projectbundle\Book_Store.bundle.scp.css
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.csproj.CopyComplete
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.dll
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\refint\Book_Store.dll
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.pdb
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\Book_Store.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Book_Store\obj\Debug\net7.0\ref\Book_Store.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\appsettings.json
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Book_Store.staticwebassets.runtime.json
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Book_Store.exe
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Book_Store.deps.json
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Book_Store.runtimeconfig.json
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Book_Store.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Book_Store.pdb
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Humanizer.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.csproj.AssemblyReference.cache
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.AssemblyInfoInputs.cache
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.AssemblyInfo.cs
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.csproj.CoreCompileInputs.cache
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cache
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cs
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.Book_Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book_Store.props
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store.props
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book_Store.props
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\scopedcss\bundle\Book_Store.styles.css
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\scopedcss\projectbundle\Book_Store.bundle.scp.css
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.csproj.CopyComplete
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\refint\Book_Store.dll
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.pdb
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\Book_Store.genruntimeconfig.cache
+C:\Users\bekir\OneDrive\Masaüstü\Book_Store\obj\Debug\net7.0\ref\Book_Store.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\appsettings.json
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Book_Store.staticwebassets.runtime.json
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Book_Store.exe
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Book_Store.deps.json
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Book_Store.runtimeconfig.json
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Book_Store.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Book_Store.pdb
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.AssemblyInfo.cs
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.Book_Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book_Store.props
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store.props
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book_Store.props
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\scopedcss\bundle\Book_Store.styles.css
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\scopedcss\projectbundle\Book_Store.bundle.scp.css
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.csproj.CopyComplete
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\refint\Book_Store.dll
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.pdb
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\Book_Store.genruntimeconfig.cache
+C:\Users\Acer\Desktop\BOOKLAST\Book_Store\obj\Debug\net7.0\ref\Book_Store.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\appsettings.json
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Book_Store.staticwebassets.runtime.json
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Book_Store.exe
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Book_Store.deps.json
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Book_Store.runtimeconfig.json
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Book_Store.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Book_Store.pdb
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.AssemblyInfo.cs
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.Book_Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book_Store.props
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store.props
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book_Store.props
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\scopedcss\bundle\Book_Store.styles.css
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\scopedcss\projectbundle\Book_Store.bundle.scp.css
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.csproj.CopyComplete
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\refint\Book_Store.dll
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.pdb
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\Book_Store.genruntimeconfig.cache
+C:\Users\Acer\Desktop\HOMEWORK WEB\Book_Store\Book_Store\obj\Debug\net7.0\ref\Book_Store.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\appsettings.json
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Book_Store.staticwebassets.runtime.json
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Book_Store.exe
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Book_Store.deps.json
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Book_Store.runtimeconfig.json
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Book_Store.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Book_Store.pdb
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.AssemblyInfo.cs
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.Book_Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.build.Book_Store.props
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Book_Store.props
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Book_Store.props
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\scopedcss\bundle\Book_Store.styles.css
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\scopedcss\projectbundle\Book_Store.bundle.scp.css
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.csproj.CopyComplete
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\refint\Book_Store.dll
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.pdb
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\Book_Store.genruntimeconfig.cache
+C:\Users\Acer\Desktop\WebProgram\Book_Store\obj\Debug\net7.0\ref\Book_Store.dll
